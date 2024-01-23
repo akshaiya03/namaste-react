@@ -1,0 +1,48 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react tutorial",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaiya03/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "akshaiya"
+  ],
+  "author": "Akshaiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaiya03/namaste-react/issues"
+  },
+  "homepage": "https://github.com/akshaiya03/namaste-react#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.8",
+    "@babel/preset-react": "^7.23.3",
+    "@testing-library/jest-dom": "^6.2.0",
+    "@testing-library/react": "^14.1.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "parcel": "^2.10.3",
+    "postcss": "^8.4.33",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.21.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
